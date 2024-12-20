@@ -1,0 +1,28 @@
+# config.py
+API_KEYS = [
+    'U2vMFKPq667haCq5iBP0UP6ZBegWNYVj',
+    'rQcR8qqqtq3FSZMul5DoFxRUuye3Gtjv',
+    'QKaGfywxCHVWSJzGCTpIQ9_pVfKAPyHD',
+    'UsvNLFNjaR5ou81VBDE3bwvjs1Fp7bJp',
+    'P50HuSNyzLzR_qUSoK7jH67twAKegCAX',
+    'xg_RyMEoS_vOaRyppw3no2SGNT4weQl1',
+    'UHq3pkYqXjDTqr4QzDRyzz0TNabpubfj',
+    'D6uzDWl3k3BfyjYxji6boen3bQ7VNJef',
+    'A_9wPBbH4BAHCHF2e7eBvPlZsNTVds1p',
+    '0TsANypNa89gjK0vVqC4y5wjDsrHWaHZ',
+    '8vxhIypL14TPKThIVl3Qp_kXquWpaK5_',
+    '4KwpJ8IAO68FFKe1murripti5Blshwx7',
+    'pOksvlMzUSpBpwndeLThqH2uqhkoIHBV',
+    'YuBT5NOW5_uKdgQ_iRiWX_pwIOJW99ea',
+    '66ZMp_zJtqueiSteCeqJsrqsbsjpCsxD',
+    'nwfCYM0MydN87com_D3wny4BdCD3OYF9',
+    'hrzmSPu2wCDYy3PzuCmxJAsaU15BFSyG',
+    'Ltn8e0c99GtbPKvtjOBpWcDBWyh9esMw',
+    '9cjZskAUBEU0IyCQc_DAjaIyCFsGQUac',
+    'I4RfjjjQYmZBdsVKDbeg9NNsQ2O9LsWW',
+    'eUMCQH4Gg5oBEW5Vx97OJlBmq1Y9GXjO',
+    'VNQirdX5Pq0fkEhp2XJ7TGcOdiVI0Yk6',
+    'FCafGtOBlej6pqQpdNFHfC0Nk_UjXFG6',
+    'gtzg3lCsNeneq8l2ssMdbpoP9d6Y1lTh',
+    'bdp9D16Ng1lGJXWs7lc5UFAHHyY_y7uv'
+]
