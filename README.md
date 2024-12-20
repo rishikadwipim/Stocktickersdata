@@ -1,4 +1,5 @@
 # Stocktickersdata
+
 Overview
 This project involves the collection, processing, and analysis of stock market data. The objective is to retrieve, clean, and analyze stock data for insights, visualizations, and predictions.
 
@@ -14,13 +15,15 @@ README.md: This file, containing project details and instructions.
 
 .gitignore: Excludes unnecessary files and sensitive data from being tracked by Git.
 
-Requirements
+**Requirements**
 Python 3.x
 Required Python libraries: pandas, matplotlib, seaborn, requests, cassandra-driver
 Jupyter Notebook for executing .ipynb files
 
 **Setup**
-Clone the repository:
+
+**Clone the repository:**
 git clone https://github.com/rishikadwipim/Stocktickersdata.git
-Contributing
+
+
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
