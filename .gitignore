@@ -5,3 +5,4 @@ __pycache__/
 poetry.lock
 secure-connect-stockdata.zip
 StockData-token.json
+secure-connect-stockdata/
